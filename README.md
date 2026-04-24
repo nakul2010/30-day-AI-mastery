@@ -30,6 +30,7 @@ and automation systems through daily hands-on projects.
 | 6 | AI Coding Tools | AI Content & Analysis Suite (4 features) | ✅ |
 | 7 | Portfolio Setup | GitHub Portfolio + Documentation | ✅ |
 | 8 | LangChain Advanced + Agents | ReAct Agent with Memory | ✅ |
+| 9 | Multi-Agent Systems | CrewAI Content Crew + Startup Analyst Crew | ✅ |
 
 ---
 
